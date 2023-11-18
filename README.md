@@ -1,4 +1,4 @@
 # first-code
 this is my first repo
 <br>
-author-Bhaskar
+author-Bhaskar Chatterjee
